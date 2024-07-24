@@ -1,1 +1,2 @@
-modified by branch1
+
+modified by branch2 resolving conflict
